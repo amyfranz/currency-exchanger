@@ -1,4 +1,4 @@
-//This is a comment
+//This is a comment too
 print "If I give you £1, how many Euro will you give me? ";
 double euroOverPoundRatio = Double.parseDouble(System.console().readLine());
 print "If I give you 1€, how many Sterling pounds will you give me? ";
